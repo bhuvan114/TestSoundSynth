@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  SoundSynth.cpp
+c:\users\bhuva\source\repos\soundsynth\soundsynth\olcnoisemaker.h(95): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  c:\users\bhuva\source\repos\soundsynth\soundsynth\olcnoisemaker.h(76): note: while compiling class template member function 'bool olcNoiseMaker<short>::Create(std::wstring,unsigned int,unsigned int,unsigned int,unsigned int)'
+  c:\users\bhuva\source\repos\soundsynth\soundsynth\olcnoisemaker.h(67): note: see reference to function template instantiation 'bool olcNoiseMaker<short>::Create(std::wstring,unsigned int,unsigned int,unsigned int,unsigned int)' being compiled
+  c:\users\bhuva\source\repos\soundsynth\soundsynth\soundsynth.cpp(17): note: see reference to class template instantiation 'olcNoiseMaker<short>' being compiled
+c:\users\bhuva\source\repos\soundsynth\soundsynth\olcnoisemaker.h(223): warning C4312: 'type cast': conversion from 'DWORD' to 'olcNoiseMaker<short> *' of greater size
+  c:\users\bhuva\source\repos\soundsynth\soundsynth\olcnoisemaker.h(222): note: while compiling class template member function 'void olcNoiseMaker<short>::waveOutProcWrap(HWAVEOUT,UINT,DWORD,DWORD,DWORD)'
+  c:\users\bhuva\source\repos\soundsynth\soundsynth\olcnoisemaker.h(106): note: see reference to function template instantiation 'void olcNoiseMaker<short>::waveOutProcWrap(HWAVEOUT,UINT,DWORD,DWORD,DWORD)' being compiled
+  SoundSynth.vcxproj -> C:\Users\bhuva\source\repos\SoundSynth\x64\Debug\SoundSynth.exe

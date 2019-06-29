@@ -1,0 +1,4 @@
+﻿  SoundSynth.cpp
+c:\users\bhuva\source\repos\soundsynth\soundsynth\soundsynth.cpp(17): error C2065: 'olcNoiseMaker': undeclared identifier
+c:\users\bhuva\source\repos\soundsynth\soundsynth\soundsynth.cpp(17): error C2062: type 'short' unexpected
+c:\users\bhuva\source\repos\soundsynth\soundsynth\soundsynth.cpp(17): error C2039: 'Enumerate': is not a member of '`global namespace''
